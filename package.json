@@ -1,0 +1,25 @@
+{
+  "name": "fullstackdev_portfolio-website-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adyatma-ardi/FullStackDev_portfolio-website-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adyatma-ardi/FullStackDev_portfolio-website-tailwind/issues"
+  },
+  "homepage": "https://github.com/adyatma-ardi/FullStackDev_portfolio-website-tailwind#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.26",
+    "tailwindcss": "^3.3.3"
+  }
+}
